@@ -10,6 +10,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <div className="App-header-container">
+            <h1 className="App-title">Fib Calculator</h1>
             <Link to="/">Home</Link>
             <Link to="/otherpage">Other Page</Link>
           </div>
